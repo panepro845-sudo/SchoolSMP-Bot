@@ -1,12 +1,12 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Technoblade",
+    "username": "SmPbot",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "socotrabunting.aternos.host",
+    "ip": "SchoolSMP923.aternos.me:12898",
     "port": 12898,
     "version": "1.21.1"
   },
@@ -30,15 +30,15 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "YO im the smp bot",
+        "i like little kids",
+        "im black"
       ]
     },
     "chat-log": true,
     "auto-reconnect": true,
-    "auto-reconnect-delay": 2000,
-    "max-reconnect-delay": 120000,
+    "auto-reconnect-delay": 200,
+    "max-reconnect-delay": 1200,
     "periodic-rejoin": {
       "enabled": false,
       "min-interval": 20,
@@ -64,7 +64,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": false,
+    "beds": true,
     "chat": true,
     "console-commands": true
   },
