@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "socotrabunting.aternos.host:12898",
+    "ip": "socotrabunting.aternos.host",
     "port": 12898,
     "version": "1.21.1"
   },
