@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "argali.aternos.host:12898",
-    "port": 12898,
+    "ip": "schoolsmp706.mcsh.io",
+    "port": 2022,
     "version": "1.21.1"
   },
   "position": {
